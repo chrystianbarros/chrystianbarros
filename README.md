@@ -1,14 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=chrystianbarros&color=006bed)
 
-## Sobre mim
+## About me
 
-- 👨‍💻 Explorando novas tecnologias e desenvolvendo soluções.
-- 💼 Trabalhando como analista de infraestrutura em nuvem na Senior Sistemas S/A.
-- 🌱 Aprendendo mais sobre tecnologias e metódos DevOps.
+- 👨‍💻 Cloud Engineer experienced in different cloud providers.
+- 💼 Highly skillable in automation processes (Ansible, Bash, Python, PowerShell) and serverless architectures.
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Applications and data**
 
 ![Ansible](https://img.shields.io/badge/Ansible-333333?style=flat&logo=ansible&logoColor=white)
 ![Bash scripting](https://img.shields.io/badge/Bash_Scripting-333333?style=flat&logo=gnu-bash&logoColor=white)
@@ -17,7 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffdd54)
 ![YAML](https://img.shields.io/badge/YAML-333333?style=flat&logo=yaml&logoColor=white)
 
-**Plataformas de nuvem**
+**Cloud platforms**
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoftazure&logoColor=white)
@@ -30,11 +29,11 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-333333?style=flat&logo=kubernetes&logoColor=blue)
 ![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat&logo=terraform&logoColor=235835CC)
 
-**Ferramentas de desenvolvimento**
+**Development tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Jira](https://img.shields.io/badge/Jira-333333?style=flat&logo=jira&logoColor=blue)
 
-## Onde me encontrar
+## Contact me
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrystianbarros/)
